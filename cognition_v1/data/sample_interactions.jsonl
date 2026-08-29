@@ -1,0 +1,13 @@
+{"learner_id":"L001","session_id":"S001","timestamp":"2026-08-29T10:00:00+05:30","topic_id":"recursion","message":"Can you explain recursion?","signals":[],"outcome":null}
+{"learner_id":"L001","session_id":"S001","timestamp":"2026-08-29T10:05:00+05:30","topic_id":"recursion","message":"Can you explain that again?","signals":[],"outcome":null}
+{"learner_id":"L001","session_id":"S001","timestamp":"2026-08-29T10:06:30+05:30","topic_id":"recursion","message":"I still don't understand the base case. Can you show me an example?","signals":[],"outcome":null}
+{"learner_id":"L001","session_id":"S001","timestamp":"2026-08-29T10:08:00+05:30","topic_id":"recursion","message":"Give me a problem to try.","signals":[],"outcome":null}
+{"learner_id":"L001","session_id":"S001","timestamp":"2026-08-29T10:12:00+05:30","topic_id":"recursion","message":"I solved it. Is this correct?","signals":[],"outcome":true}
+{"learner_id":"L002","session_id":"S002","timestamp":"2026-08-29T11:00:00+05:30","topic_id":"linked_lists","message":"What is a linked list?","signals":[],"outcome":null}
+{"learner_id":"L002","session_id":"S002","timestamp":"2026-08-29T11:09:00+05:30","topic_id":"linked_lists","message":"Can you give me an example?","signals":[],"outcome":null}
+{"learner_id":"L002","session_id":"S002","timestamp":"2026-08-29T11:15:00+05:30","topic_id":"linked_lists","message":"Can you explain this more simply?","signals":[],"outcome":null}
+{"learner_id":"L002","session_id":"S002","timestamp":"2026-08-29T11:24:00+05:30","topic_id":"linked_lists","message":"I understand now. I answered the question correctly.","signals":[],"outcome":true}
+{"learner_id":"L003","session_id":"S003","timestamp":"2026-08-29T14:00:00+05:30","topic_id":"binary_search","message":"Explain binary search.","signals":[],"outcome":null}
+{"learner_id":"L003","session_id":"S003","timestamp":"2026-08-29T14:12:00+05:30","topic_id":"binary_search","message":"What do you mean by sorted array?","signals":[],"outcome":null}
+{"learner_id":"L003","session_id":"S003","timestamp":"2026-08-29T14:25:00+05:30","topic_id":"binary_search","message":"Show me a worked example.","signals":[],"outcome":null}
+{"learner_id":"L003","session_id":"S003","timestamp":"2026-08-29T14:40:00+05:30","topic_id":"binary_search","message":"I don't get why we discard half the array.","signals":[],"outcome":null}

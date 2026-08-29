@@ -1,0 +1,4 @@
+{"event_id":"E001","learner_id":"L001","topic_id":"recursion","gold_signals":["CLARIFICATION"],"gold_state":"CLARIFICATION_NEEDED"}
+{"event_id":"E002","learner_id":"L001","topic_id":"recursion","gold_signals":["CONFUSION","EXAMPLE_SEEKING"],"gold_state":"CLARIFICATION_NEEDED"}
+{"event_id":"E003","learner_id":"L001","topic_id":"recursion","gold_signals":["EXAMPLE_SEEKING"],"gold_state":"NEEDS_PRACTICE"}
+{"event_id":"E004","learner_id":"L001","topic_id":"recursion","gold_signals":["SUCCESS"],"gold_state":"IMPROVING"}
